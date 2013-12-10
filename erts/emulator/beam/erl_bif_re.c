@@ -28,9 +28,11 @@
 #include "bif.h"
 #include "erl_binary.h"
 #include "big.h"
+
 #define ERLANG_INTEGRATION 1
 #define PCRE_STATIC
-#include "pcre.h"
+
+#include "pcre-bif.h"
 
 #define PCRE_DEFAULT_COMPILE_OPTS 0 
 #define PCRE_DEFAULT_EXEC_OPTS 0 
