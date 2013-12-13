@@ -35,6 +35,7 @@ i386-pc-solaris[0-9]*.[0-9]*
 i386-unknown-freebsd[0-9]*.[0-9]*
 tile-tilera-linux-gnu
 powerpc-unknown-linux-gnu
+arm-none-linux-gnueabi
 
 # Mac OS X
 a.out.dSYM/
